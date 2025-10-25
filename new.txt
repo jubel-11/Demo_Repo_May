@@ -1,2 +1,3 @@
+Git commands:
 git init: intialize the git in a directory.
 git add -A: add the contents in the Staging area.
